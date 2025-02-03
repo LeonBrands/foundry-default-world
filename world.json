@@ -1,0 +1,126 @@
+{
+  "title": "Default",
+  "id": "default",
+  "system": "dnd5e",
+  "joinTheme": "minimal",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "4.2.2",
+  "url" : "https://github.com/LeonBrands/foundry-default-world",
+  "download": "https://github.com/LeonBrands/foundry-default-world/archive/refs/heads/main.zip",
+  "lastPlayed": "Mon Feb 03 2025 10:32:26 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 1004138,
+  "packs": [
+    {
+      "label": "Macros",
+      "type": "Macro",
+      "name": "macros",
+      "path": "packs/macros",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Rules",
+      "type": "JournalEntry",
+      "name": "rules",
+      "path": "packs/rules",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Tables",
+      "type": "RollTable",
+      "name": "tables",
+      "path": "packs/tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Items",
+      "type": "Item",
+      "name": "items",
+      "path": "packs/items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Spells",
+      "type": "Item",
+      "name": "spells",
+      "path": "packs/spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Monster Features",
+      "type": "Item",
+      "name": "monster-features",
+      "path": "packs/monster-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Monsters",
+      "type": "Actor",
+      "name": "monsters",
+      "path": "packs/monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Spell Actors",
+      "type": "Actor",
+      "name": "spell-actors",
+      "path": "packs/spell-actors",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Preset Music",
+      "type": "Playlist",
+      "name": "preset-music",
+      "path": "packs/preset-music",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
