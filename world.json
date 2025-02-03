@@ -1,6 +1,5 @@
 {
   "title": "Default",
-  "id": "default",
   "system": "dnd5e",
   "joinTheme": "minimal",
   "coreVersion": "12.331",
@@ -11,6 +10,7 @@
   "systemVersion": "4.2.2",
   "url" : "https://github.com/LeonBrands/foundry-default-world",
   "download": "https://github.com/LeonBrands/foundry-default-world/archive/refs/heads/main.zip",
+  "id": "foundry-default-world",
   "lastPlayed": "Mon Feb 03 2025 10:32:26 GMT+0000 (Coordinated Universal Time)",
   "playtime": 1004138,
   "packs": [
